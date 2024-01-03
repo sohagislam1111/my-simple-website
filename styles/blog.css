@@ -2,5 +2,9 @@
 div{
 background-color: aqua;
 margin: 5px;
-padding: 5px;
+padding: 10px;
+border: 10px solid blueviolet;
+}
+p{
+   
 }
